@@ -1,0 +1,15 @@
+Alarm clock designed to control time by means of sound notification tied to the time set by the user.
+It uses a battery as a power supply.
+Has two hands and a dial, a bell.
+
+
+
+Positive testing:
+1) Checking the accuracy of the display time;
+2) Check for sound signal activation;
+
+Negative testing:
+1) Checking the performance of the lying position;
+2) Test for falling from a height;
+3) Checking for ease of use (how easy it is to understand the functionality);
+4) Check for performance from a weak power supply.
